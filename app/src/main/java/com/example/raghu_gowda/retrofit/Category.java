@@ -6,23 +6,7 @@ import java.util.List;
 public class Category {
 
 
-    /**
-     * next :
-     * method : Categories
-     * total_count : 33
-     * link : https://api.meetup.com/2/categories
-     * count : 33
-     * description : Returns a list of Meetup group categories
-     * lon : None
-     * title : Categories
-     * url : https://api.meetup.com/2/categories?offset=0&sign=True&format=json&group_urlname=ny-tech&page=200&key=2f43365b380316d3a234157ae5e31&order=shortname&desc=false
-     * signed_url : https://api.meetup.com/2/categories?offset=0&format=json&group_urlname=ny-tech&page=200&order=shortname&desc=false&sig_id=213069073&sig=0a480d50bb7936c4d6ab2572e761b7c584de49b1
-     * id :
-     * updated : 1450292956000
-     * lat : None
-     */
-
-    private MetaBean meta;
+   private MetaBean meta;
     /**
      * name : Arts & Culture
      * sort_name : Arts & Culture
