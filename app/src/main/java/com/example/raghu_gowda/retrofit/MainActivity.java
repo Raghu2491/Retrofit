@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+/////
 //Using Retrofit and RxJava////////////////////////////////////////////////////////
         Retrofit retrofit = new Retrofit.Builder()
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
