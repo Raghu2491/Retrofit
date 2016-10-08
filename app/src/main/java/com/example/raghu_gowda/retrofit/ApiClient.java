@@ -9,7 +9,7 @@ public class ApiClient {
 
     public static final String END_POINT = "https://api.meetup.com";
     public static Retrofit retrofit=null;
-/////
+
     public Retrofit getClient(){
         if(retrofit==null) {
             retrofit = new Retrofit.Builder()
